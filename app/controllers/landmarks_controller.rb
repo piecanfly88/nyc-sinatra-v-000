@@ -38,4 +38,3 @@ class LandmarksController < ApplicationController
   end
 
 end
-s
